@@ -1,7 +1,7 @@
 #!/usr/bin/python/
 # Python code for calculation of Kirkwood-Buff Integral using Ganguly corrected RDF and Kruger corrected KBI # 
 # Ref: J. Phys. Chem. B 2018, 122, 5515-5526 # 
-# Rasenjit Ghosh Dastidar # Lab-202 # Last modified Date: 06-07-18 # 
+# Rasenjit Ghosh Dastidar # Lab-202, Dept of Chemistry, IISER Bhopal # Last modified Date: 06-07-18 # 
 
 import numpy as np 
 import math 
